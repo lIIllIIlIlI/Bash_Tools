@@ -1,7 +1,7 @@
 	
 #!/bin/bash
 SYNC_ELEM=".fonts .icons .zshrc .vimrc .vim \
-		.bin Templates 
+		.bin Templates \
 		.config/Terminator \
 		.cache/chromium .cache/thunderbird \
 		.config/Code/User/keybindings.json \
